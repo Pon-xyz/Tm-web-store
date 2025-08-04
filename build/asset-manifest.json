@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ced7b96c.css",
+    "main.js": "/static/js/main.6c86815b.js",
+    "static/media/Weldingwire.svg": "/static/media/Weldingwire.3fe3da2397dd0cae887c05649b5f1064.svg",
+    "static/media/Delivery.svg": "/static/media/Delivery.79f5eb6ce9fab6f628f03d7004d36530.svg",
+    "static/media/Welder.svg": "/static/media/Welder.8a83dcd51b240ea126b95b4316d9c5cf.svg",
+    "static/media/Consultation.svg": "/static/media/Consultation.7e79c7e060b8ec783a932f64cdd1dc45.svg",
+    "static/media/STL.svg": "/static/media/STL.28c7fc72de13738763a4b2f53f265ff2.svg",
+    "static/media/Lasercutting.svg": "/static/media/Lasercutting.6fac87d71463c45d7dfbb9a410613abf.svg",
+    "static/media/Blackmetal.svg": "/static/media/Blackmetal.316e10375cb081b97a6bab246c06e723.svg",
+    "static/media/Brass.svg": "/static/media/Brass.78e1a5322720519ff1a3691d099aaf2f.svg",
+    "static/media/factory.svg": "/static/media/factory.687f74bf2808152a3e122ec9d0ba54a2.svg",
+    "static/media/CNC.svg": "/static/media/CNC.8c1507e4931ec0749ac139b80a775bc9.svg",
+    "static/media/Foldingmachine.svg": "/static/media/Foldingmachine.19e0be23bcdbe89a2602e67be767a4b7.svg",
+    "static/media/Crassiron.svg": "/static/media/Crassiron.b2bdfa693b25164864eae96e57ecff0b.svg",
+    "static/media/Sawmachine.svg": "/static/media/Sawmachine.05bed1c1e817efa1ceea8cf0565ef0e0.svg",
+    "static/media/PE.svg": "/static/media/PE.5f00e92ac73574305c896505fb557d0b.svg",
+    "index.html": "/index.html",
+    "main.ced7b96c.css.map": "/static/css/main.ced7b96c.css.map",
+    "main.6c86815b.js.map": "/static/js/main.6c86815b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced7b96c.css",
+    "static/js/main.6c86815b.js"
+  ]
+}
